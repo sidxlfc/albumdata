@@ -1,0 +1,28 @@
+body
+{
+	background-image:url(img.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.topAlbums
+{
+	width: 50%;
+	height: 240px;
+	float: left;
+	overflow: auto;
+}
+.similarArtist
+{
+	width: 50%;
+	height: 240px;
+	overflow: auto;
+	position: relative;
+}
+.artistStyle
+{
+	width : 50%;
+	height : 480px;
+	font-family: "Comic Sans MS";	
+	float: left;
+	overflow: auto;
+}
